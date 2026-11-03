@@ -9,7 +9,7 @@ DAY 1 • 9:42 PM → DAY 2 • 6:22 AM. Don't take the lift; head up, not down;
 Caption: "If the zombie apocalypse starts while you're on a cruise… don't take the lift 😳 #part1"
 Hashtags: #zombieapocalypse #whatif #cruiseship #survivaltips #animation
 
-## Part 2 — the lifeboat
+## Part 2 — the lifeboat ✅ made: films/zombie-cruise-p2/
 DAY 2 • 6:23 AM. What's in the lifeboat turns out to be a terrified survivor (a crew member), not a zombie. Rules: don't open a door before you check what's behind it; never lower a lifeboat alone; learn the ship's map (the crew member has one). Cliffhanger: the drifting ship's horn sounds by itself; someone else is up there.
 Caption idea: "If the zombie apocalypse starts on a cruise… don't open the lifeboat 😳 #part2"
 
