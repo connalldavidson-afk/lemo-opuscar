@@ -1,0 +1,9 @@
+{
+  "slug": "chunky-3d-cartoon",
+  "en": "Chunky 3D Cartoon",
+  "cn": "圆润 3D 卡通",
+  "based_on": "brick-toy",
+  "borrows": [],
+  "size": "1080x1920",
+  "library_version": "git bebbbe1"
+}
