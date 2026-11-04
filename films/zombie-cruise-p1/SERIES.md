@@ -17,7 +17,7 @@ Caption idea: "If the zombie apocalypse starts on a cruise… don't open the lif
 DAY 2 • 2:10 PM. The ship is drifting toward a storm. You, the crew member and the cat go down through the crew corridors to restart the engines. Rules: stay in the crew-only passages; noise travels through metal, so move quietly; light beats speed. Cliffhanger: the engines start, and every zombie on board turns toward the sound.
 Caption idea: "If the zombie apocalypse starts on a cruise… don't touch the engines 😳 #part3"
 
-## Part 4 — land ho
+## Part 4 — land ho ✅ made: films/zombie-cruise-p4/
 DAY 3 • 5:48 AM. You steer for the coast with the horde climbing toward the bridge. Rules: use the fire hoses, not weapons; seal the decks behind you; abandon ship only when you can see land. Ending: the lifeboat reaches a harbour, and the harbour lights are all out. The cat looks back at the camera. "PART 5?"
 Caption idea: "If the zombie apocalypse starts on a cruise… don't trust the harbour 😳 #part4"
 
