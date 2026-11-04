@@ -1,0 +1,8 @@
+Zombie Apocalypse on a Cruise Ship · Part 3 — credits for third-party assets
+
+Font: Lilita One (Copyright (c) 2011 Juan Montoreano, Reserved Font Name "Lilita One"), SIL Open Font License 1.1 (core/fonts)
+Voice: Kokoro TTS (kokoro-onnx, model kokoro-v1.0, voice am_michael), Apache License 2.0 — https://github.com/thewh1teagle/kokoro-onnx
+3D: three.js r170 (MIT) — https://threejs.org ; post-processing from the library's core/three/post.js (MIT, Lemo-Opuscar library code)
+Music, ambience and sound effects: original, synthesized in numpy for this film (no samples).
+Pictures: original, modelled and drawn in code for this film (no image or video generation, no textures from third parties).
+Format reference: the second-person "what if" survival-short format (series header, word-group captions, part cliffhangers) — grammar only; no characters, branding or material from any creator.

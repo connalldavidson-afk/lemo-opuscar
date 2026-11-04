@@ -13,7 +13,7 @@ Hashtags: #zombieapocalypse #whatif #cruiseship #survivaltips #animation
 DAY 2 • 6:23 AM. What's in the lifeboat turns out to be a terrified survivor (a crew member), not a zombie. Rules: don't open a door before you check what's behind it; never lower a lifeboat alone; learn the ship's map (the crew member has one). Cliffhanger: the drifting ship's horn sounds by itself; someone else is up there.
 Caption idea: "If the zombie apocalypse starts on a cruise… don't open the lifeboat 😳 #part2"
 
-## Part 3 — taking back the engine room
+## Part 3 — taking back the engine room ✅ made: films/zombie-cruise-p3/
 DAY 2 • 2:10 PM. The ship is drifting toward a storm. You, the crew member and the cat go down through the crew corridors to restart the engines. Rules: stay in the crew-only passages; noise travels through metal, so move quietly; light beats speed. Cliffhanger: the engines start, and every zombie on board turns toward the sound.
 Caption idea: "If the zombie apocalypse starts on a cruise… don't touch the engines 😳 #part3"
 
