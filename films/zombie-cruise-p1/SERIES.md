@@ -21,5 +21,9 @@ Caption idea: "If the zombie apocalypse starts on a cruise… don't touch the en
 DAY 3 • 5:48 AM. You steer for the coast with the horde climbing toward the bridge. Rules: use the fire hoses, not weapons; seal the decks behind you; abandon ship only when you can see land. Ending: the lifeboat reaches a harbour, and the harbour lights are all out. The cat looks back at the camera. "PART 5?"
 Caption idea: "If the zombie apocalypse starts on a cruise… don't trust the harbour 😳 #part4"
 
+## Part 5 — the dark harbour ✅ made: films/zombie-cruise-p5/
+DAY 3 • 7:16 AM. What's in the dark harbour: the town isn't dead. The survivors switched every light off themselves, because light draws the zombies in, and the few zombies left stand asleep on their feet along the quay. Rules: cut the engine before you reach the shore; follow the signs only the living would leave (chalk arrows with smiley faces); prove you're still human (zombies can't smile, so grin for the torch at the lighthouse door). The keeper lets you in; survivors hide in the dark lighthouse. Cliffhanger: a horn in the fog. You never switched the engines off, and the cruise ship, decks packed with zombies, is heading straight for the harbour. "PART 6?"
+Caption idea: "If the zombie apocalypse starts on a cruise… don't leave the engines running 😳 #part5"
+
 ## Making the next part
 Say: "Make Part 2 in my Chunky 3D Cartoon style" and point at this file. Reuse `films/zombie-cruise-p1/style/demo/` techniques (rig, cat, header, captions, mix), never Part 1's shots or timings.

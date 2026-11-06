@@ -1,0 +1,80 @@
+[
+ {
+  "id": "l01",
+  "text": "If the zombie apocalypse starts on a cruise ship, and you finally make it to land...",
+  "voice": "am_michael",
+  "speed": 1.05
+ },
+ {
+  "id": "l02",
+  "text": "don't jump out yet. Look at the quay.",
+  "voice": "am_michael",
+  "speed": 1.05
+ },
+ {
+  "id": "l03",
+  "text": "Rule one. Cut the engine before you reach the shore.",
+  "voice": "am_michael",
+  "speed": 1.05
+ },
+ {
+  "id": "l04",
+  "text": "They're asleep on their feet. Keep it that way.",
+  "voice": "am_michael",
+  "speed": 1.05
+ },
+ {
+  "id": "l05",
+  "text": "Rule two. Follow the signs only the living would leave.",
+  "voice": "am_michael",
+  "speed": 1.05
+ },
+ {
+  "id": "l06",
+  "text": "Zombies don't draw arrows. And they never draw smiley faces.",
+  "voice": "am_michael",
+  "speed": 1.05
+ },
+ {
+  "id": "l07",
+  "text": "Rule three. Prove you're still human.",
+  "voice": "am_michael",
+  "speed": 1.05
+ },
+ {
+  "id": "l08",
+  "text": "Zombies can't smile. So give them your biggest grin.",
+  "voice": "am_michael",
+  "speed": 1.05
+ },
+ {
+  "id": "l09",
+  "text": "It works.",
+  "voice": "am_michael",
+  "speed": 1.05
+ },
+ {
+  "id": "l10",
+  "text": "The lights are out on purpose. Light brings them in.",
+  "voice": "am_michael",
+  "speed": 1.05
+ },
+ {
+  "id": "l11",
+  "text": "Safe. Quiet. Dark.",
+  "voice": "am_michael",
+  "speed": 1.05
+ },
+ {
+  "id": "l12",
+  "text": "Then a horn sounds, out in the fog.",
+  "voice": "am_michael",
+  "speed": 1.05
+ },
+ {
+  "id": "l13",
+  "text": "You never switched those engines off.",
+  "voice": "am_michael",
+  "speed": 1.05
+ }
+]
